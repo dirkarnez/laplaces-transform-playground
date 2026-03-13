@@ -4,6 +4,7 @@ laplaces-transform-playground
 - [**Chapter 13 The Laplace Transform in Circuit Analysis**](https://www.ee.nthu.edu.tw/sdyang/Courses/Circuits/Ch13_Std.pdf)
 - [**Laplace Domain Circuit Analysis - YouTube**](https://www.youtube.com/watch?v=L0PZvvt36DA)
 - [**Laplace Transform of DC Circuits to s-domain**](https://www.engineeringguidance.com/laplace-transform-of-dc-circuits)
+- [10.6: RC Circuits - Physics LibreTexts](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/10%3A_Direct-Current_Circuits/10.06%3A_RC_Circuits)
 - https://web.cecs.pdx.edu/~tymerski/ece241/Circuit_Analysis_forCI.pdf
 - [Circuit Analysis For Dummies Cheat Sheet | dummies](https://www.dummies.com/article/technology/electronics/circuitry/circuit-analysis-for-dummies-cheat-sheet-207997/)
 - [Laplace Transforms of Circuit Elements - YouTube](https://www.youtube.com/watch?v=QlM1dC2gBLM&t=2s)
